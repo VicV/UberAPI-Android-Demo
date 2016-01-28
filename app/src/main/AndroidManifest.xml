@@ -12,7 +12,7 @@
 
         <meta-data
             android:name="com.rahul.uberapi.android.demo.UBER_CLIENT_ID"
-            android:value="YOUR_CLIENT_ID_HERE"/>
+            android:value="@string/uber_client_id"/>
 
         <meta-data
             android:name="com.rahul.uberapi.android.demo.UBER_CLIENT_SECRET"
