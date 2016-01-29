@@ -44,11 +44,9 @@
             android:name=".DemoActivity"
             android:label="@string/app_name" />
 
-
         <activity
             android:name="com.vicvu.uberapi.android.demo.EndpointActivity"
             android:label="@string/app_name" />
-
     </application>
 
 </manifest>
