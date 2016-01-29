@@ -1,6 +1,6 @@
-package com.rahul.uberapi.android.demo.model;
+package com.vicvu.uberapi.android.demo.model;
 
-import com.rahul.uberapi.android.demo.Constants;
+import com.vicvu.uberapi.android.demo.Constants;
 
 /**
  * Helper class that overrides the {@link #toString()} method to print pretty json. All models

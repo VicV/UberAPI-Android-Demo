@@ -1,4 +1,4 @@
-package com.rahul.uberapi.android.demo;
+package com.vicvu.uberapi.android.demo;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -9,9 +9,9 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
 
-import com.rahul.uberapi.android.demo.api.UberAuthTokenClient;
-import com.rahul.uberapi.android.demo.api.UberCallback;
-import com.rahul.uberapi.android.demo.model.User;
+import com.vicvu.uberapi.android.demo.api.UberAuthTokenClient;
+import com.vicvu.uberapi.android.demo.api.UberCallback;
+import com.vicvu.uberapi.android.demo.model.User;
 
 import retrofit.client.Response;
 

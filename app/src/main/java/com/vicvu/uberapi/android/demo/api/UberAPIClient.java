@@ -1,12 +1,12 @@
-package com.rahul.uberapi.android.demo.api;
+package com.vicvu.uberapi.android.demo.api;
 
-import com.rahul.uberapi.android.demo.BuildConfig;
-import com.rahul.uberapi.android.demo.Constants;
-import com.rahul.uberapi.android.demo.model.PriceEstimateList;
-import com.rahul.uberapi.android.demo.model.ProductList;
-import com.rahul.uberapi.android.demo.model.Profile;
-import com.rahul.uberapi.android.demo.model.TimeEstimateList;
-import com.rahul.uberapi.android.demo.model.UserActivity;
+import com.vicvu.uberapi.android.demo.Constants;
+import com.vicvu.uberapi.android.demo.model.PriceEstimateList;
+import com.vicvu.uberapi.android.demo.model.ProductList;
+import com.vicvu.uberapi.android.demo.model.Profile;
+import com.vicvu.uberapi.android.demo.model.TimeEstimateList;
+import com.vicvu.uberapi.android.demo.model.UserActivity;
+import com.vicvu.uberapi.android.demo.BuildConfig;
 
 import retrofit.Callback;
 import retrofit.Endpoint;

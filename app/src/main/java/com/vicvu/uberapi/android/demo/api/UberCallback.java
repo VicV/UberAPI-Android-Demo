@@ -1,4 +1,4 @@
-package com.rahul.uberapi.android.demo.api;
+package com.vicvu.uberapi.android.demo.api;
 
 import retrofit.Callback;
 import retrofit.RetrofitError;

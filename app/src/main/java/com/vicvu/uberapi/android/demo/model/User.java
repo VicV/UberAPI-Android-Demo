@@ -1,4 +1,4 @@
-package com.rahul.uberapi.android.demo.model;
+package com.vicvu.uberapi.android.demo.model;
 
 /**
  * Used by the auth endpoint and contains information data about the current authenticated user.

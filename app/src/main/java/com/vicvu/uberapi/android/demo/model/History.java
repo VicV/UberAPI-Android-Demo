@@ -1,4 +1,4 @@
-package com.rahul.uberapi.android.demo.model;
+package com.vicvu.uberapi.android.demo.model;
 
 /**
  * Used by the user activity endpoint and contains information including the pickup location,

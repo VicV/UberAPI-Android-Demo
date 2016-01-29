@@ -1,4 +1,4 @@
-package com.rahul.uberapi.android.demo.model;
+package com.vicvu.uberapi.android.demo.model;
 
 /**
  * Used by the profile endpoint and contains information about the Uber user that has authorized

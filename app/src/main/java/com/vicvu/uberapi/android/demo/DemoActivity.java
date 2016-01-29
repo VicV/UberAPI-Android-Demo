@@ -1,4 +1,4 @@
-package com.rahul.uberapi.android.demo;
+package com.vicvu.uberapi.android.demo;
 
 import android.content.Context;
 import android.content.Intent;

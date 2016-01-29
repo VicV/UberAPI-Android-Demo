@@ -1,4 +1,4 @@
-package com.rahul.uberapi.android.demo;
+package com.vicvu.uberapi.android.demo;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,13 +8,13 @@ import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.rahul.uberapi.android.demo.api.UberAPIClient;
-import com.rahul.uberapi.android.demo.api.UberCallback;
-import com.rahul.uberapi.android.demo.model.PriceEstimateList;
-import com.rahul.uberapi.android.demo.model.ProductList;
-import com.rahul.uberapi.android.demo.model.Profile;
-import com.rahul.uberapi.android.demo.model.TimeEstimateList;
-import com.rahul.uberapi.android.demo.model.UserActivity;
+import com.vicvu.uberapi.android.demo.api.UberAPIClient;
+import com.vicvu.uberapi.android.demo.api.UberCallback;
+import com.vicvu.uberapi.android.demo.model.PriceEstimateList;
+import com.vicvu.uberapi.android.demo.model.ProductList;
+import com.vicvu.uberapi.android.demo.model.Profile;
+import com.vicvu.uberapi.android.demo.model.TimeEstimateList;
+import com.vicvu.uberapi.android.demo.model.UserActivity;
 
 import java.util.ArrayList;
 import java.util.List;

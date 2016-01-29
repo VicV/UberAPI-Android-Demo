@@ -1,8 +1,8 @@
-package com.rahul.uberapi.android.demo.api;
+package com.vicvu.uberapi.android.demo.api;
 
-import com.rahul.uberapi.android.demo.BuildConfig;
-import com.rahul.uberapi.android.demo.Constants;
-import com.rahul.uberapi.android.demo.model.User;
+import com.vicvu.uberapi.android.demo.BuildConfig;
+import com.vicvu.uberapi.android.demo.Constants;
+import com.vicvu.uberapi.android.demo.model.User;
 
 import retrofit.Callback;
 import retrofit.RestAdapter;
